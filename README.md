@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deni-kip Machine Learning Engineer
+- 👋 Hi, I’m Denis Kiprotich Machine Learning Engineer
 <!---
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine Learning

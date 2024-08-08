@@ -3,7 +3,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine Learning
 --->
-- 📫 How to reach me [deniskiprotich749@gmail.com](mailto:deniskiprotich749@gmail.com)
+<!--- - 📫 How to reach me [deniskiprotich749@gmail.com](mailto:deniskiprotich749@gmail.com) --->
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: ...

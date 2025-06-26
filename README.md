@@ -103,7 +103,7 @@ You can click the Preview link to take a look at your changes.
     <li>LinkedIn: <a href="https://www.linkedin.com/in/denis-kiprotich-a8a77124a/">linkedin.com/in/denis-kiprotich</a></li>
     <li>Twitter: <a href="https://x.com/kiprotich507">@kiprotich507</a></li>
   </ul> -->
-  ## 📫 Let's Connect
+  <h2>📫 Let's Connect</h2>
 
   <!--- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denis.k.too@gmail.com)--->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-kiprotich-a8a77124a/)

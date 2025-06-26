@@ -5,7 +5,7 @@
 - 🌱 Currently learning: **ALX ProDev Back End Program**
 - 🎓 Studied B.Sc. Mathematics & Computer Science at **JKUAT**
 - 🧠 Completed Machine Learning & Data Science course at **Tech Expert Academy**
-- ✅ Completed a 5-month internship (Jan–May 2025) at **Leizam Ventures** --->
+- ✅ Completed a 3-month internship (Jan–March 2025) at **Leizam Ventures** --->
 <!--- as part of the JKUAT & Leizam Ventures Skill Enhancement Program - 🌍 GCGO Focus: Governance to reduce corruption among youth, especially in employment--->
 <!--- 
 ---
@@ -86,10 +86,12 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 <!-- About Page Section -->
+<!-- About Page Section -->
 <section id="about">
   <h2>📖 About Me</h2>
   <p>I’m Denis Kiprotich, a curious and growth-driven tech enthusiast from Kenya. I studied B.Sc. Mathematics & Computer Science at <strong>JKUAT</strong> and completed a <strong>Machine Learning & Data Science</strong> course at <strong>Tech Expert Academy</strong>.</p>
-  <p>From Jan to May 2025, I completed a 5-month internship at <strong>Leizam Ventures</strong><!---  through a joint Skill Enhancement Program--->. I'm now focused on backend development to build impactful systems that solve real-world problems<!---  especially in governance and youth empowerment--->.</p>
+  <p>From January to March 2025, I served as a <strong>Full Stack Development Intern</strong> at <strong>Leizam Ventures</strong>, where I worked on real-world applications using ASP.NET, SQL, and KnockoutJS. This experience sharpened my skills in both backend and frontend development, preparing me for more complex system design challenges.</p>
+  <p>I'm now focused on backend development, aiming to build secure, scalable, and impactful systems that address real-world problems.</p>
 </section>
 
 <hr>

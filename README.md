@@ -63,24 +63,16 @@ You can click the Preview link to take a look at your changes.
 <!-- Projects Page Section -->
 <section id="projects">
   <h2>🚀 Projects</h2>
-  <!--- 
   <ul>
     <li>
-      <h3>Job Board Web API</h3>
-      <p>A RESTful API built with ASP.NET Core to manage job postings, user roles, and applications.</p>
-      <a href="https://github.com/deni-kip/job-board-api">GitHub Repository</a>
+      <h3>MarvelAPI</h3>
+      <p>Explore the Marvel Universe through RESTful endpoints that deliver data on characters, movies, planets, and series. Built with .NET 8 and Entity Framework Core.</p>
     </li>
     <li>
-      <h3>ML Student Performance Predictor</h3>
-      <p>Python-based ML model to predict student performance using pandas, scikit-learn, and matplotlib.</p>
-      <a href="https://github.com/deni-kip/student-performance-ml">GitHub Repository</a>
+      <h3>FitTrack</h3>
+      <p>A fitness tracking app to help users log workouts and set personalized goals for improved health and wellness.</p>
     </li>
-    <li>
-      <h3>Expense Tracker App</h3>
-      <p>Full-stack app for tracking expenses built during my internship using KnockoutJS and ASP.NET.</p>
-      <a href="https://github.com/deni-kip/expense-tracker">GitHub Repository</a>
-    </li>
-  </ul> --->
+  </ul>
 </section>
 
 <hr>

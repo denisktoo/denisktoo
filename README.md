@@ -54,7 +54,8 @@ You can click the Preview link to take a look at your changes.
   <h1>👋 Hi, I’m Denis Kiprotich</h1>
   <p>💻 Aspiring Back End Developer | Machine Learning Enthusiast</p>
   <p>Currently learning <strong>ALX ProDev Back End Program</strong></p>
-  <p>Welcome to my GitHub portfolio! I'm passionate about building scalable backend systems and creating data-driven solutions.</p>
+<!--   <p>Welcome to my GitHub portfolio! I'm passionate about building scalable backend systems and creating data-driven solutions.</p> -->
+  <p>Welcome to my GitHub portfolio!</p>
   <a href="#contact" style="font-weight: bold; color: #007acc;">📫 Get in touch</a>
 </section>
 
@@ -68,10 +69,10 @@ You can click the Preview link to take a look at your changes.
       <h3>MarvelAPI</h3>
       <p>Explore the Marvel Universe through RESTful endpoints that deliver data on characters, movies, planets, and series. Built with .NET 8 and Entity Framework Core.</p>
     </li>
-    <li>
+<!--     <li>
       <h3>FitTrack</h3>
       <p>A fitness tracking app to help users log workouts and set personalized goals for improved health and wellness.</p>
-    </li>
+    </li> -->
   </ul>
 </section>
 
@@ -83,7 +84,7 @@ You can click the Preview link to take a look at your changes.
   <h2>📖 About Me</h2>
   <p>I’m Denis Kiprotich, a curious and growth-driven tech enthusiast from Kenya. I studied B.Sc. Mathematics & Computer Science at <strong>JKUAT</strong> and completed a <strong>Machine Learning & Data Science</strong> course at <strong>Tech Expert Academy</strong>.</p>
   <p>From January to March 2025, I served as a <strong>Full Stack Development Intern</strong> at <strong>Leizam Ventures</strong>, where I worked on real-world applications using ASP.NET, SQL, and KnockoutJS. This experience sharpened my skills in both backend and frontend development, preparing me for more complex system design challenges.</p>
-  <p>I'm now focused on backend development, aiming to build secure, scalable, and impactful systems that address real-world problems.</p>
+<!--   <p>I'm now focused on backend development, aiming to build secure, scalable, and impactful systems that address real-world problems.</p> -->
 </section>
 
 <hr>

@@ -62,13 +62,13 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 <!-- Projects Page Section -->
-<section id="projects">
+<!-- <section id="projects">
   <h2>🚀 Projects</h2>
   <ul>
     <li>
       <h3>MarvelAPI</h3>
       <p>Explore the Marvel Universe through RESTful endpoints that deliver data on characters, movies, planets, and series. Built with .NET 8 and Entity Framework Core.</p>
-    </li>
+    </li> -->
 <!--     <li>
       <h3>FitTrack</h3>
       <p>A fitness tracking app to help users log workouts and set personalized goals for improved health and wellness.</p>
